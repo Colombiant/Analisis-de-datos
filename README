@@ -1,0 +1,48 @@
+# 📊 Análisis de Datos con Python
+
+Este repositorio reúne una colección de análisis de datos desarrollados en Python, utilizando herramientas del ecosistema científico como Pandas, Matplotlib, Seaborn y Numpy. El objetivo es explorar distintas técnicas de análisis, visualización y modelado de datos, con proyectos que crecen progresivamente en complejidad.
+
+## 📁 Estructura del repositorio
+
+Cada subcarpeta corresponde a un proyecto de análisis de datos específico. Dentro de cada una encontrarás:
+
+- `notebook.ipynb` – Análisis en Jupyter/Colab
+- `data/` – Archivos de datos utilizados
+- `README.md` – Descripción del análisis
+- `visualizaciones/` – Imágenes o gráficas generadas
+
+## 🧠 Objetivos del repositorio
+
+- Practicar y documentar el uso de herramientas como `pandas`, `matplotlib`, `seaborn`, `numpy`, `scikit-learn`, entre otras.
+- Aplicar buenas prácticas de limpieza, análisis exploratorio y visualización de datos.
+- Generar informes reproducibles y bien comentados que puedan servir como portafolio de análisis.
+
+## 📦 Herramientas utilizadas
+
+- Python 3.10+
+- Pandas
+- Numpy
+- Matplotlib
+- Seaborn
+- Jupyter Notebook o Google Colab
+
+## 🚀 Proyectos incluidos
+
+| Proyecto                          | Descripción                                              | Estado |
+|----------------------------------|----------------------------------------------------------|--------|
+| `análisis_tiendas_alura/`        | Comparación de desempeño de 4 tiendas usando KPIs        | ✅ Finalizado |
+| `ventas_ficticias2024/`          | Simulación y análisis de ventas semanales                | 🧪 En desarrollo |
+| `exploración_datos_geográficos/` | Visualización de datos espaciales con mapas interactivos | 🔄 En revisión |
+
+*Esta lista crecerá con el tiempo a medida que se desarrollen nuevos proyectos.*
+
+## ✍️ Autor
+
+**William D. Hernández Solarte**  
+Estudiante de Ingeniería | Entusiasta del análisis de datos  
+📧 [TuEmail@ejemplo.com]  
+🔗 [LinkedIn o GitHub Profile]
+
+## 📄 Licencia
+
+Este repositorio se publica bajo la licencia MIT. Puedes usarlo, modificarlo y compartirlo libremente, siempre que cites la fuente.
