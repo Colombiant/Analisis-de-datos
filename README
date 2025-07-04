@@ -1,48 +1,36 @@
-# 📊 Análisis de Datos con Python
+<h1 align="center">📊 Análisis de Datos con Python</h1>
 
-Este repositorio reúne una colección de análisis de datos desarrollados en Python, utilizando herramientas del ecosistema científico como Pandas, Matplotlib, Seaborn y Numpy. El objetivo es explorar distintas técnicas de análisis, visualización y modelado de datos, con proyectos que crecen progresivamente en complejidad.
+<p align="center">
+  <em>Repositorio personal para practicar, documentar y compartir análisis de datos con Python.</em><br>
+  <strong>Autor:</strong> William D. Hernández Solarte
+</p>
 
-## 📁 Estructura del repositorio
+---
 
-Cada subcarpeta corresponde a un proyecto de análisis de datos específico. Dentro de cada una encontrarás:
+## 🧠 Objetivo del Repositorio
 
-- `notebook.ipynb` – Análisis en Jupyter/Colab
-- `data/` – Archivos de datos utilizados
-- `README.md` – Descripción del análisis
-- `visualizaciones/` – Imágenes o gráficas generadas
+Explorar el mundo del análisis de datos mediante proyectos prácticos usando el ecosistema Python. Desde limpieza y visualización hasta generación de reportes y conclusiones con impacto.
 
-## 🧠 Objetivos del repositorio
+---
 
-- Practicar y documentar el uso de herramientas como `pandas`, `matplotlib`, `seaborn`, `numpy`, `scikit-learn`, entre otras.
-- Aplicar buenas prácticas de limpieza, análisis exploratorio y visualización de datos.
-- Generar informes reproducibles y bien comentados que puedan servir como portafolio de análisis.
+## 🗂️ Estructura del Repositorio
 
-## 📦 Herramientas utilizadas
+```bash
+├── proyecto_1/
+│   ├── notebook.ipynb
+│   ├── data/
+│   └── visualizaciones/
+├── proyecto_2/
+│   └── ...
+├── README.md
 
-- Python 3.10+
-- Pandas
-- Numpy
-- Matplotlib
-- Seaborn
-- Jupyter Notebook o Google Colab
 
-## 🚀 Proyectos incluidos
+<div align="center"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/Matplotlib-FF4081?style=for-the-badge&logo=plotly&logoColor=white"/> <img src="https://img.shields.io/badge/Seaborn-4B8BBE?style=for-the-badge"/> <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/> </div>
 
-| Proyecto                          | Descripción                                              | Estado |
-|----------------------------------|----------------------------------------------------------|--------|
-| `análisis_tiendas_alura/`        | Comparación de desempeño de 4 tiendas usando KPIs        | ✅ Finalizado |
-| `ventas_ficticias2024/`          | Simulación y análisis de ventas semanales                | 🧪 En desarrollo |
-| `exploración_datos_geográficos/` | Visualización de datos espaciales con mapas interactivos | 🔄 En revisión |
+<table> <thead> <tr> <th>📁 Proyecto</th> <th>📝 Descripción</th> <th>📌 Estado</th> </tr> </thead> <tbody> <tr> <td><code>analisis_tiendas_alura/</code></td> <td>Comparación de rendimiento entre 4 tiendas a partir de KPIs</td> <td>✅ Finalizado</td> </tr> <tr> <td><code>ventas_ficticias2024/</code></td> <td>Análisis exploratorio de datos de ventas simuladas</td> <td>🧪 En desarrollo</td> </tr> <tr> <td><code>exploracion_datos_geograficos/</code></td> <td>Visualización con coordenadas y mapas interactivos</td> <td>🔄 En revisión</td> </tr> </tbody> </table>
 
-*Esta lista crecerá con el tiempo a medida que se desarrollen nuevos proyectos.*
 
-## ✍️ Autor
+<p align="center"> 📧 <strong>Email:</strong> williamhernandez@example.com <br> 🔗 <a href="https://github.com/tuusuario">GitHub</a> | <a href="https://www.linkedin.com/in/tuusuario/">LinkedIn</a> </p>
 
-**William D. Hernández Solarte**  
-Estudiante de Ingeniería | Entusiasta del análisis de datos  
-📧 [TuEmail@ejemplo.com]  
-🔗 [LinkedIn o GitHub Profile]
+<p align="center"><img src="banner.png" width="800"/></p>
 
-## 📄 Licencia
-
-Este repositorio se publica bajo la licencia MIT. Puedes usarlo, modificarlo y compartirlo libremente, siempre que cites la fuente.
